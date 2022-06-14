@@ -1,0 +1,3 @@
+Rencana project kedepan
+- Membuat aplikasi marketplace
+- Membuat aplikasi edukasi
